@@ -1,4 +1,4 @@
-package ru.trylogic.maven.plugins.redis.example.tests;
+package zx.soft.maven.plugins.redis.example.tests;
 
 import org.junit.Assert;
 import org.junit.Test;
