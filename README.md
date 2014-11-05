@@ -1,7 +1,7 @@
 redis-maven-plugin [![Build Status]
 ==================
 
-> 嵌入式redis服务器，纯Java的Maven3版本.，基于https://github.com/spullara/redis-protocol。
+> 嵌入式redis服务器，纯Java的Maven3版本，基于https://github.com/spullara/redis-protocol。
 
 
 基本示例
